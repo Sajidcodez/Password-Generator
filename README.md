@@ -1,4 +1,4 @@
-Welcome to the Advanced PyPassword Generator! This project is a sophisticated password generator that allows users to create secure passwords with customizable options. The project is written in Python and provides both simple and advanced levels of password generation.
+## This project is a sophisticated password generator that allows users to create secure passwords with customizable options. The project is written in Python and provides both simple and advanced levels of password generation.
 
 Installation:
 
